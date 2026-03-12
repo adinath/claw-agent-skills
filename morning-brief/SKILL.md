@@ -1,3 +1,9 @@
+---
+name: morning-brief
+description: Create morning brief for user by summarizing unread messages
+version: 1.0.0
+---
+
 Good morning! Run the morning check-in.
 
 Steps
